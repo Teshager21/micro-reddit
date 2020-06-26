@@ -25,26 +25,23 @@ Things you may want to cover:
 
 # Micro-Reddit
 
-In this project, 
+In this project, is demonstration of use of Active record to create Models and create simple relations between 
+them using rails associations.
 
 ## Built With
 
 - Ruby-2.5.1p57
 - Rails 5.2.1
 
-![screenshot](images/amazon-scrap.png)
-![screenshot](images/scrapper-screenshot.png)
-
 ## How to use this scrapper
 
-1. Make sure you have ruby installed
-     Type `ruby --version` and see if you get the version number.
+1. Make sure you have ruby and rails installed
+     Type `ruby --version` and `rails --version` see if you get the version number.
      If you don't have ruby installed use [this](https://www.tutorialspoint.com/ruby-on-rails/rails-installation.htm) link to know how to install it.
 2. Type `install bundle` and press enter to install dependencies
-3.From the bin folder right click on the main file and select the open with the terminal option
-4. Type `ruby main` to run it
-5. Select the catergory of product you will like to scrap by typing the shortcuts within the parenthesis
-6. Press e to exit or stop scrapping 
+3.Run `rails db:migrate` to create your database schema
+4. Type `rails c` to open the console and experiment with models
+5. Press `ctrl d` to leave the console
 
 ### How to install using Command line
 
@@ -91,7 +88,7 @@ In this project,
 
     Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/Teshager21/micro-reddit/issues).
 
 ## Show your support
 
