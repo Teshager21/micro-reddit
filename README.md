@@ -1,27 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 
 # Micro-Reddit
 
@@ -38,8 +14,8 @@ them using rails associations.
 1. Make sure you have ruby and rails installed
      Type `ruby --version` and `rails --version` see if you get the version number.
      If you don't have ruby installed use [this](https://www.tutorialspoint.com/ruby-on-rails/rails-installation.htm) link to know how to install it.
-2. Type `install bundle` and press enter to install dependencies
-3.Run `rails db:migrate` to create your database schema
+2. Navigate to the folder and type `install bundle` on the terminal then press enter to install dependencies
+3. Run `rails db:migrate` to create your database schema
 4. Type `rails c` to open the console and experiment with models
 5. Press `ctrl d` to leave the console
 
@@ -47,9 +23,6 @@ them using rails associations.
 
     1. Click on the install or download button under the repository name and grab the url
     by clicking on the clipboard icon
-
-![Step-1](images/clone-screenshot.png)
-
     2.open your terminal
 
     3.Navigate to the location in your computer where you want the repo to be cloned
@@ -71,10 +44,9 @@ them using rails associations.
 
 👤 **Author**
 
-- Gmail: [Teshager Admasu](mailto:teshager8922@gmail.com)
-- Github: [@teshager21](https://github.com/teshager21)
-- Twitter: [@Teshage84907805](https://twitter.com/Teshage84907805)
-- Linkedin: [Teshager Admasu](https://www.linkedin.com/in/teshager-admasu-0000011a2/)
+- Github: [@EmmanuelAaron](https://github.com/Emmanuelaaron)
+- Twitter: [@EmmanuelAaron](https://twitter.com/EmmanuelIsabir1)
+- Linkedin: [@EmmanuelAaron](https://www.linkedin.com/in/fullstackwebdev-emma/)
 
 👤 **Author**
 
