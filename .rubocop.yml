@@ -1,5 +1,4 @@
- 
-AllCops:
+ AllCops:
   Exclude:
     - "db/**/*"
     - "bin/*" 
@@ -11,7 +10,7 @@ AllCops:
   DisplayCopNames: true
 
 Layout/LineLength:
-  Max: 120
+  Max: 80
 Metrics/MethodLength:
   Include:
     - "app/controllers/*"
